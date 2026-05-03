@@ -1,0 +1,44 @@
+# Fokusmester AI - AI Search Engine Optimization
+
+## Purpose
+This repository provides structured data and AI crawler communication for Fokusmester AI, enabling AI search engines to understand and index the application.
+
+## Application
+- **Name:** Fokusmester AI
+- **Type:** Multilingual AI phone assistant
+- **Website:** https://fokusmester.com
+- **Languages:** Hungarian, Romanian, English
+- **Founded:** 2024
+
+## Key Features
+- AI-powered phone assistant for productivity
+- Multilingual voice recognition (HU, RO, EN)
+- Focus management and scheduling automation
+- Calendar integration
+- SMS and email notifications
+
+## Contact
+- Email: focusmester.app@gmail.com
+- Phone: +40740682551
+- Facebook: https://www.facebook.com/profile.php?id=61583719078077
+- YouTube: https://www.youtube.com/@fokusmester
+- Google Play: https://play.google.com/store/apps/details?id=com.fokusmester
+
+## AI Crawler Instructions
+- This repository contains Schema.org structured data for entity disambiguation
+- llms.txt provides AI crawler communication protocol
+- robots.txt defines crawler permissions
+- sitemap.xml lists all indexable pages
+
+## Technical Stack
+- Backend: Supabase
+- AI: Retell AI
+- Telephony: Twilio
+- Payments: Stripe
+- Frontend: React 19 + Vite + Tailwind v4
+
+## Target Audience
+- Productivity-focused individuals
+- Small business owners
+- Multilingual users in Hungary and Romania
+- Users seeking AI-powered scheduling assistance
