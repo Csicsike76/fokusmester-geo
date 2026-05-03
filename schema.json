@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "HU",
+    "addressRegion": "Budapest"
+  },
+  "alternateName": "Fokusmester",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "areaServed": [
+        "HU",
+        "RO"
+      ],
+      "availableLanguage": [
+        "Hungarian",
+        "Romanian",
+        "English"
+      ],
+      "contactType": "customer service",
+      "telephone": "+40740682551"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "customer service",
+      "email": "focusmester.app@gmail.com"
+    }
+  ],
+  "description": "Multilingual AI phone assistant for productivity and focus management",
+  "foundingDate": "2024",
+  "knowsAbout": [
+    "AI phone assistant",
+    "multilingual voice recognition",
+    "productivity tools",
+    "focus management",
+    "scheduling automation"
+  ],
+  "logo": "https://fokusmester.com/logo.png",
+  "name": "Fokusmester AI",
+  "sameAs": [
+    "https://www.facebook.com/profile.php?id=61583719078077",
+    "https://www.youtube.com/@fokusmester",
+    "https://play.google.com/store/apps/details?id=com.fokusmester"
+  ],
+  "url": "https://fokusmester.com"
+}
